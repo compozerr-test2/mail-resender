@@ -1,6 +1,6 @@
 {
     "type": "module",
-    "name": "template",
+    "name": "mail-resender",
     "dependencies": { },
     "start": "echo 'Hi Mom!'",
     "startupTimeoutMs": 1000,
